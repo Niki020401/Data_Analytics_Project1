@@ -1,0 +1,42 @@
+1. Imported Data
+* Loaded dataset into Power BI from the given source file.
+* Ensured the correct file format and encoding.
+
+2. Data Cleaning
+* Removed duplicate rows.
+* Deleted blank rows and columns.
+* Removed irrelevant columns not required for analysis.
+* Filtered out rows with negative or zero values.
+
+3. Data Transformation
+* Changed column data types where necessary (e.g., text → number, date).
+* Renamed columns for clarity.
+* Handled missing values (filled or removed depending on the column).
+
+4. Data Modeling
+* Created relationships between tables (if multiple datasets).
+* Defined primary keys and foreign keys where applicable.
+
+5. Data Analysis
+* Added calculated columns and measures using DAX.
+* Created aggregations (SUM, AVERAGE, COUNT, MAX, MIN).
+* Grouped and summarized data for insights.
+
+6. Data Visualization
+* Designed bar charts, line charts, and histograms.
+* Built pivot charts for specific KPIs.
+* Used slicers and filters for interactivity.
+
+7. Correlation & Patterns
+* Created a correlation matrix to find relationships between variables.
+* Highlighted significant trends in the data.
+
+8. Dashboard Creation
+* Arranged visuals into an interactive dashboard.
+* Applied consistent color themes and formatting.
+* Added titles, labels, and legends for clarity.
+
+9. Final Review
+* Verified data accuracy.
+* Checked responsiveness and filter functionality.
+* Saved final Power BI file (.pbix).
