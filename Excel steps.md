@@ -4,7 +4,7 @@
 
 
 
-1. Load raw data and inspect for structure, types, and quality issues.
+1\. Load raw data and inspect for structure, types, and quality issues.
 
 
 
@@ -21,4 +21,5 @@
 
 
 5\. Build an interactive dashboard, validate results, and document the process.
+
 
